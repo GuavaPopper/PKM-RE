@@ -1,0 +1,16 @@
+# Direktori Virtual Environment
+.venv/
+env/
+
+# File Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Pengaturan Editor
+.vscode/
+.idea/
+
+# Sistem File
+.DS_Store
+Thumbs.db
